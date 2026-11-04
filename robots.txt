@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /private/
 Allow: /
 
-Sitemap: https://ユーザー名.github.io/sitemap.xml
+Sitemap: https://goto-yusuke918.github.io/sitemap.xml
